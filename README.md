@@ -6,7 +6,7 @@
 
 ## 上传操作示例：
 
-### Step1 进入相应的文件夹:
+### Step1 创建或者进入自己的分支:
 <div align="left">
   <img src="./操作示例/add_step1.png"/>
 </div>
